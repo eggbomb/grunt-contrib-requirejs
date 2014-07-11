@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": "~2.1.0"
+    "requirejs": "https://github.com/eggbomb/r.js/tarball/23089206dc46c1f91f3c9561d15bac0a3eef0f58"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.10.0",
